@@ -7,6 +7,7 @@
 - Repositorio.
 - Diapositivas.
 - Programa.
+- como renombrar commits
 - Exposición.
 - Créditos.
 
@@ -15,12 +16,17 @@
 >Agregar conceptos como el de variables y sus tipos.
 
 ## ⦗🖥⦘ Diapositivas:
-TODO: Falta subir las diapositivas.
 >Documentación del proceso del taller3 mostrando paso a paso el como se realizo el programa.
 
 ## ⦗🧑🏼‍💻⦘ Programa:
-TODO: Falta subir el programa a github.
 >El programa de java cuenta con 20 variables de diferente tipo iniciadas con datos compatibles con cada una y también reasigna los valores de varias variables.
+
+## [📍]Como renombrar commits:
+>Para cambiar el nombre solo para commits proximos, dejando los antiguos con el nombre que ya tenian, dentro del repositorio:
+>Comando: git config user.name "Nombre Deseado"
+>Comando : git config user.email "email deseado"
+>Ahora, para cambiar el commit directamente anterior, dentro del repositorio:
+>Comando: git commit --amend --reset-author
 
 ## ⦗🗣⦘ Exposición:
 >Explicación del proceso de realización del taller3
