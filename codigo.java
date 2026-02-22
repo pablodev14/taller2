@@ -1,4 +1,4 @@
-public class taller3{
+public class codigo{
     public static void main(String[] args) {
         try {
         
