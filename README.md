@@ -2,6 +2,7 @@
 
 >Este repositorio esta creado en la clase de lógica de programación, para entender de manera optima los conceptos de Variables, Operaciones y mas temas afines.
 
+
 ## ⦗📑⦘ Contenido:
 
 - Repositorio.
@@ -11,13 +12,17 @@
 - Exposición.
 - Créditos.
 
+  
 ## ⦗📁⦘ Repositorio:
 
->En este repositorio estan las diapositivas que explican que es una variable y sus tipos, los diferentes tipos de operadores, capturas del programa sobre declaraciones, reasignaciones de valores y hardcode y tambien tiene una explicacion sobre como cambiar el nombre en git.
+>En este repositorio están las diapositivas que explican que es una variable y sus tipos, los diferentes tipos de operadores, capturas del programa sobre declaraciones, reasignaciones de valores y hardcode y también tiene una explicación sobre como cambiar el nombre en git.
+
+  
 
 ## ⦗🖥⦘ Diapositivas:
 
->Documentación del proceso del taller3 mostrando paso a paso el como se realizo el programa, tambien tiene la explicacion sobre que es una variables y su tipos, tambien cuanta con los diferentes tipos de operadores y una explicacion sobre como cambiar el nombre en git.
+>Documentación del proceso del taller3 mostrando paso a paso el como se realizo el programa, también tiene la explicación sobre que es una variables y su tipos, también cuanta con los diferentes tipos de operadores y una explicación sobre como cambiar el nombre en git.
+
 
 ## ⦗🧑🏼‍💻⦘ Programa:
 
@@ -25,20 +30,23 @@
 
 >El programa esta en github.
 
-## [📍]Como renombrar commits:
 
-> - Para cambiar el nombre solo para commits proximos, dejando los antiguos con el nombre que ya tenian, dentro del repositorio:
-> - Comando: git config user.name "Nombre Deseado"
-> - Comando : git config user.email "email deseado"
-> - Ahora, para cambiar el commit directamente anterior, dentro del repositorio:
-> - Comando: git commit --amend --reset-author
+  ## [📍]Como renombrar commits:
 
+>Para cambiar el nombre solo para commits próximos, dejando los antiguos con el nombre que ya tenían, dentro del repositorio:
+>- Comando: git config user.name "Nombre Deseado"
+>- Comando : git config user.email "email deseado"
+>- Ahora, para cambiar el commit directamente anterior, dentro del repositorio:
+>- Comando: git commit --amend --reset-author
+
+  
 ## ⦗🗣⦘ Exposición:
 
->Explicación del proceso de realización del taller3, sustentando el como hicimos el programa y tambien mostrando las diapositivas explicando que es una variables y sus tipos, mostrando los diferentes tipos de operadores y como se hace para cambiar el nombre en git.
+>Explicación del proceso de realización del taller3, sustentando el como hicimos el programa y también mostrando las diapositivas explicando que es una variables y sus tipos, mostrando los diferentes tipos de operadores y como se hace para cambiar el nombre en git.
 
+  
 ## ⦗🪪⦘ Créditos:
 
-> - Juan Pablo Velez
-> - Emanuel Tamayo
-> - Jeronimo Toro
+>  - Juan Pablo Velez
+>  - Emanuel Tamayo
+>  - Jerónimo Toro
