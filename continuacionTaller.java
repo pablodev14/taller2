@@ -36,7 +36,10 @@ public class continuacionTaller {
             
             switch (ecuacion) {
                 case 1:
-                    System.out.println("Hola mundo");
+                    resultado1 = ((3*x)/(1+(3*x)/(3*z*z+2)))/(1/((1/(1+z))+3*x*x+2*z+3));
+
+                    System.out.println("El resultado y de la ecuacion 1 es igual a: " + resultado1);
+
                     break;
             
                 case 2:
