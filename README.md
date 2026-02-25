@@ -47,6 +47,6 @@
   
 ## ⦗🪪⦘ Créditos:
 
->  - Juan Pablo Velez
->  - Emanuel Tamayo
->  - Jerónimo Toro
+>  - Juan Pablo Velez Lopera
+>  - Emanuel Tamayo Florez
+>  - Jeronimo Toro Rodriguez
