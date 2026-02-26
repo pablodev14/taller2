@@ -58,6 +58,7 @@ public class continuacionTaller {
                     break;
 
                 default:
+                    System.out.println("Entrada no valida, porfavor vuelva a intentarlo");
             }
 
             
