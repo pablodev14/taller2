@@ -24,7 +24,7 @@
 >Documentación del proceso del taller3 mostrando paso a paso el como se realizo el programa, también tiene la explicación sobre que es una variables y su tipos, también cuanta con los diferentes tipos de operadores y una explicación sobre como cambiar el nombre en git.
 
 
-##⦗🧑🏼‍💻⦘ Programa:
+## ⦗🧑🏼‍💻⦘ Programa:
 
 >El programa de java cuenta con 20 variables de diferente tipo iniciadas con datos compatibles con cada una, también reasigna los valores de varias variables y tiene un poco de hardcode.
 
