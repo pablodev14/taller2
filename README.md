@@ -1,4 +1,4 @@
-# ⦗📌⦘ TALLER#3
+# ⦗📌⦘ TALLER#2
 
 >Este repositorio esta creado en la clase de lógica de programación, para entender de manera optima los conceptos de Variables, Operaciones y mas temas afines.
 
