@@ -1,11 +1,10 @@
 public class variables{
     public static void main(String[] args) {
-        try {
-        
+
         //Declaración e inicialización de 20 variables
 
         byte edad = 18;
-        short año = 2026;
+        short ano = 2026;
         int poblacion = 1000000;
         long distancia = 123456789L; //El "L" se debe poner a todas las variables de tipo Long porque si no, el codigo no compila 
         float estatura = 1.75f; //El "f" se debe poner a todas las variables de tipo float, si no, el codigo no compila
@@ -41,7 +40,7 @@ public class variables{
         codigo = 4321;
         genero = 'F';
         edad = 20;
-        año = 2027;
+        ano = 2027;
         peso = 50.0;
         inicial = 'J';
         esEstudiante = false;
@@ -50,7 +49,7 @@ public class variables{
 
         // Mostrar resultados despues de la reasignación
         System.out.println("Edad: " + edad);
-        System.out.println("El año es: " + año);
+        System.out.println("El año es: " + ano);
         System.out.println("Poblacion: " + poblacion);
         System.out.println("distancia: " + distancia);
         System.out.println("Estatura: " + estatura);
@@ -68,8 +67,5 @@ public class variables{
         System.out.println("nivel: " + nivel);
         System.out.println("Salario actualizado: " + salario);
             
-        } catch (Exception e) {
-            System.out.println("Error: " + e.getMessage() + " " + e);
-        }
     }
 }
